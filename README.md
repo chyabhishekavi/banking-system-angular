@@ -6,7 +6,7 @@
 ### Steps to setup
 **1. Clone the repository**
 ```bash
-    git clone https://github.com/chyabhishekavi/BankingSystemFrontend.git
+    git clone https://github.com/chyabhishekavi/banking-system-angular.git
 ``` 
 
 **2. Install Package**
@@ -26,11 +26,4 @@
 
 ### Description
 
-This project is demo project for angular beginners to implement the angular with external apis and routes. 
-
-### Backend Repository
-
-- Checkout for the spring boot backend repository.
-```link
-    https://github.com/chyabhishekavi/BankingSystemBackend.git
-```
+This project is  project for banking system in angular with external apis and routes. 
